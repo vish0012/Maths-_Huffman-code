@@ -138,17 +138,3 @@ print("Decoded Output", Huffman_Decoding(encoding,tree))
 # print(data)
 # Huffman_Encoding(data)
 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
